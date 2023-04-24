@@ -25,7 +25,7 @@ Imports:
 
 👀How to start it:
 - in the resources file you can find an database
-structure to copy, so you can create it and connect it to this project.
+structure to copy, so you can create it and connect it to this project (i used an MySQL).
 - install TomCat server (9th version recommended) and connect this project to it.
 - after all just run it, and it will redirect you to the page,
 so you can navigate it (directions described in functions earlier).
