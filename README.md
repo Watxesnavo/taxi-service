@@ -1,5 +1,5 @@
 # taxi-service
-it's a very primitive drivers and cars management. you can see tables with all the information about your cars, drivers, car manufacturer and you can add drivers to one certain car that you wish. You can create and delete any car and it's manufacturer and driver. Used to have control about what cars you have in your taxi park and what the driver is driving a certain car and the quantity of your cars and its drivers.
+it's a car park and it's drivers management application. you can see tables with all the information about your cars, drivers, car manufacturer and you can add drivers to one certain car that you wish. You can create and delete any car and it's manufacturer and driver. Used to have control about what cars you have in your taxi park and what the driver is driving a certain car and the quantity of your cars and its drivers.
 
 🎯Functions:
   links:
@@ -25,7 +25,7 @@ Imports:
 
 👀How to start it:
 - in the resources file you can find an database
-structure to copy, so you can create it
-- install TomCat server (9th version recommended)
+structure to copy, so you can create it and connect it to this project.
+- install TomCat server (9th version recommended) and connect this project to it.
 - after all just run it, and it will redirect you to the page,
-so you can navigate it
+so you can navigate it (directions described in functions earlier).
